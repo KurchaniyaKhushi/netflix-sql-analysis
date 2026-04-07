@@ -1,4 +1,4 @@
-# netflix-sql-analysi
+# netflix-sql-analysis
 
 Project Overview
 
@@ -37,9 +37,9 @@ Tools Used
 
 ---
 
-Data Cleaning
+Data Inspection
 
-Before analysis, basic data cleaning was performed.
+Before analysis, the dataset was inspected to check for missing values.
 
 Example query used to identify missing country values:
 
